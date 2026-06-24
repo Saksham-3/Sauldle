@@ -972,7 +972,7 @@
       "ageGroup": "Senior",
       "role": "Minor",
       "occupation": "DEA Informant",
-      "criminalInvolvement": "Moderate",
+      "criminalInvolvement": "Major",
       "quote": "It means turtle, and that's me. I take my time, but I always win."
     },
     {
@@ -1079,6 +1079,21 @@
       "occupation": "Construction Engineer",
       "criminalInvolvement": "Minor",
       "quote": "Look at that sky. In Germany, I have not seen stars like this for many years."
+    },
+    {
+      "id": 76,
+      "name": "Krazy-8",
+      "aliases": ["Domingo", "Domingo Gallardo Molina"],
+      "image": "https://static.wikia.nocookie.net/breakingbad/images/6/6e/Krazy8.jpg/revision/latest/scale-to-width-down/350?cb=20220901143154",
+      "show": "Both",
+      "firstAppearance": { "season": 1, "episode": 1 },
+      "status": "Dead",
+      "gender": "Male",
+      "ageGroup": "Young Adult",
+      "role": "Antagonist",
+      "occupation": "Drug Dealer",
+      "criminalInvolvement": "Moderate",
+      "quote": "That's why you're cooking meth? You wanna leave money for your family. Hell, I'll write you a check right now if you let me go."
     }
   ]
 }

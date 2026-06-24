@@ -22,6 +22,7 @@ export function generateShareText(guesses, dayNumber) {
     `Sauldle #${dayNumber}`,
     ...rows,
     `Guesses: ${guesses.length}`,
+    `Play here: https://sauldle.pages.dev/`,
   ].join('\n')
 }
 

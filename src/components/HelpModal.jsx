@@ -49,8 +49,8 @@ export default function HelpModal({ onClose }) {
           After enough wrong guesses, you get optional hints to help.
         </p>
         <ul className="help-list">
-          <li><strong>3 wrong guesses</strong> - a quote from the character</li>
-          <li><strong>6 wrong guesses</strong> - their occupation</li>
+          <li><strong>3 wrong guesses</strong> - their occupation</li>
+          <li><strong>6 wrong guesses</strong> - a quote from the character</li>
           <li><strong>9 wrong guesses</strong> - their photo</li>
         </ul>
       </div>

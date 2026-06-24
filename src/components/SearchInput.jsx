@@ -144,9 +144,6 @@ export default function SearchInput({ characters, guesses, onGuess, disabled }) 
                   <span className="dropdown-aliases">{char.aliases.join(' · ')}</span>
                 )}
               </div>
-              <span className="dropdown-show">
-                {char.show === 'BrBa' ? 'BB' : char.show === 'BCS' ? 'BCS' : 'Both'}
-              </span>
             </li>
           ))}
         </ul>

@@ -10,9 +10,12 @@ export default function HelpModal({ onClose }) {
   return (
     <div className="modal-overlay" onClick={onClose} role="dialog" aria-modal="true" aria-label="How to play">
       <div className="modal modal--help" onClick={e => e.stopPropagation()}>
-        <button className="modal-close" onClick={onClose} aria-label="Close">✕</button>
-        <h2 className="modal-title">How to play</h2>
+        <div className="modal-sticky-header">
+          <h2 className="modal-title">How to play</h2>
+          <button className="modal-close" onClick={onClose} aria-label="Close">✕</button>
+        </div>
 
+        <div className="modal-scrollable-body">
         <p className="help-intro">
           A character from the Breaking Bad universe is chosen each day. Guess the character !!!
         </p>
@@ -53,6 +56,7 @@ export default function HelpModal({ onClose }) {
           <li><strong>6 wrong guesses</strong> - a quote from the character</li>
           <li><strong>9 wrong guesses</strong> - their photo</li>
         </ul>
+        </div>
       </div>
     </div>
   )

@@ -865,7 +865,31 @@ ul { list-style: none; }
 .btn-share:active { opacity: 0.72; }
 
 /* Help modal */
-.modal--help { max-width: 460px; }
+.modal--help {
+  max-width: 460px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.modal-sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 48px 14px;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  flex-shrink: 0;
+}
+.modal-sticky-header .modal-title { margin-bottom: 0; }
+.modal-sticky-header .modal-close { position: absolute; right: 12px; top: 50%; transform: translateY(-50%); }
+.modal-scrollable-body {
+  padding: 20px 24px 28px;
+  overflow-y: auto;
+}
 .help-intro { color: var(--text-2); font-size: 0.9rem; margin-bottom: 20px; line-height: 1.6; }
 .help-section-title {
   font-size: 0.75rem;

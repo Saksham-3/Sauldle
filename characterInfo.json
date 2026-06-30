@@ -275,7 +275,7 @@
       "name": "Ed Galbraith",
       "aliases": ["The Disappearer"],
       "image": "https://static.wikia.nocookie.net/breakingbad/images/7/79/Ed_El_Camino.png/revision/latest/scale-to-width-down/397?cb=20220517120040",
-      "show": "BrBa",
+      "show": "Both",
       "firstAppearance": { "season": 5, "episode": 15 },
       "status": "Alive",
       "gender": "Male",
@@ -388,7 +388,7 @@
       "role": "Minor",
       "occupation": "Cartel Enforcer",
       "criminalInvolvement": "Moderate",
-      "quote": "We gotta move the body. Tuco cannot find out about this."
+      "quote": "Look, Tuco, we can't do him like that, man. Buzzards and rats and all that. I'm just saying, you know? It's not very Christian."
     },
     {
       "id": 28,
@@ -463,7 +463,7 @@
       "role": "Antagonist",
       "occupation": "Law Partner",
       "criminalInvolvement": "None",
-      "quote": "I know it was you. I can't prove it yet. But I will."
+      "quote": "Here. Let me show you a little trick. Something about the centrifugal force. It pulls the bubbles from the inside of the can, stops it from exploding. Don't want our clients to get a surprise, now, do we?"
     },
     {
       "id": 33,
@@ -477,8 +477,8 @@
       "ageGroup": "Adult",
       "role": "Supporting",
       "occupation": "Bodyguard",
-      "criminalInvolvement": "Minor",
-      "quote": "I'm not moving from this room until I hear from Saul."
+      "criminalInvolvement": "Moderate",
+      "quote": "Can I ask you sum'n? Personal, kind of. You're a lawyer. You make good money, right? Legit money, on the level. Your wife's a lawyer. A legit lawyer. Why you do all this?"
     },
     {
       "id": 34,
@@ -491,9 +491,9 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "role": "Antagonist",
-      "occupation": "Neo-Nazi Leader",
+      "occupation": "Gang Leader",
       "criminalInvolvement": "Extreme",
-      "quote": "I don't want your money. I want your recipe."
+      "quote": "Christ, that is one fine head of hair. I mean, otherwise you look like shit, but..."
     },
     {
       "id": 35,
@@ -538,7 +538,7 @@
       "role": "Protagonist",
       "occupation": "Drug Cook",
       "criminalInvolvement": "Major",
-      "quote": "Yeah, science!"
+      "quote": "I am not turning down the money! I'm turning down you! You get it?! I want nothing to do with you!"
     },
     {
       "id": 38,
@@ -643,7 +643,7 @@
       "role": "Antagonist",
       "occupation": "Cartel Boss",
       "criminalInvolvement": "Extreme",
-      "quote": "ou wanna be a friend of the cartel? Time to get yourself a new motto: \"Just Make Money.\""
+      "quote": "You wanna be a friend of the cartel? Time to get yourself a new motto: \"Just Make Money.\""
     },
     {
       "id": 45,
@@ -1001,7 +1001,7 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "role": "Supporting",
-      "occupation": "Cartel Operative",
+      "occupation": "Henchman",
       "criminalInvolvement": "Major",
       "quote": "Gotta make it look real."
     },

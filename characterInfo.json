@@ -365,7 +365,7 @@
       "name": "Gale Boetticher",
       "aliases": [],
       "image": "https://static.wikia.nocookie.net/breakingbad/images/4/4c/Cast_bb_800x600_gale-boetticher.jpg/revision/latest/scale-to-width-down/350?cb=20191101152252",
-      "show": "BrBa",
+      "show": "Both",
       "firstAppearance": { "season": 3, "episode": 6 },
       "status": "Dead",
       "gender": "Male",
@@ -1077,7 +1077,7 @@
       "ageGroup": "Adult",
       "role": "Supporting",
       "occupation": "Construction Engineer",
-      "criminalInvolvement": "Minor",
+      "criminalInvolvement": "Major",
       "quote": "Look at that sky. In Germany, I have not seen stars like this for many years."
     },
     {
